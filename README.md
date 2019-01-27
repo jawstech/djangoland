@@ -1,0 +1,2 @@
+# djangoland
+django deployment example
